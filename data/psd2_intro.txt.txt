@@ -1,0 +1,37 @@
+The revised Payment Services Directive (PSD2) updates and enhances the EU rules put in place by the initial PSD adopted in 2007. The PSD2 entered into force on 12 January 2016 and EU Member States were given until 13 January 2018 to transpose it into national law.
+
+The main objectives of the PSD2 are (i) to contribute to a more integrated and efficient European payments market; (ii) to further level the playing field for payment service providers by including new players; (iii) to make payments safer and more secure; and (iv) to enhance protection for European consumers and businesses. In other words, the PSD2 supports innovation and competition in retail payments and enhances the security of payment transactions and the protection of consumer data.
+
+The PSD2 is supplemented by regulatory technical standards on strong customer authentication and common and secure open standards of communication, as well as guidelines on incident reporting and guidelines on security measures for operational and security risks. The three documents were developed by the European Banking Authority in close cooperation with the ECB and payment service providers must comply with all of them.
+
+The regulatory technical standards were published in the Official Journal of the European Union on 13 March 2018 and apply as of 14 September 2019. Thus, there is a transition period during which payment service providers can already provide their services under the PSD2, but are not yet legally required to implement the respective security measures. Nevertheless, in the interest of their own security, all payment service providers are strongly encouraged to fulfil the requirements of the regulatory technical standards as soon as possible. This includes, in particular:
+
+the issuance and use of strong customer authentication solutions, allowing for authorisation to be dynamically linked to the specific amount and payee;
+the offering of transaction and device monitoring to identify unusual payment patterns;
+the provision of a standardised and reliable access interface to payment accounts (i.e. an application programming interface, API) which makes it possible to identify third-party payment service providers in a secure way and secures all related communication between all parties involved. The aim is to reach a market agreement on one technical specification so that all systems across Europe could ultimately be based on one or a few technical API standards.
+
+A short overview of how the PSD2 fosters innovation, consumer protection and security
+Rules for third-party payment service providers
+The PSD2 opens up the EU payments market to third-party payment service providers offering services based on access to information from the payment account. In particular, the PSD2 covers the following three types of services:
+
+payment initiation services, which help consumers make online payments and inform the merchant immediately of the payment initiation, allowing for the immediate dispatch of goods or immediate access to services purchased online;
+account information services, which give consumers and businesses an overview of their financial situation by consolidating information across the different payment accounts they may have with one or more payment service providers;
+issuance of card-based payment instruments by third-party payment service providers that request confirmation of the availability of funds from the payment service provider servicing the account.
+The PSD2 requires that all such third-party payment services providers be authorised and regulated. It authorises the relevant authorities to monitor and supervise their activities.
+
+The PSD2 sets rules for access to payment accounts for third-party payment service providers. Member States must ensure that account-servicing payment service providers are not blocking or obstructing the use of payment initiation and account information services for the accounts they hold. Account-servicing payment service providers cannot deny access to the accounts they hold unless the third-party payment service provider is unauthorised or if there is a suspicion of fraud. Explicit consent is required from the payer for a transaction to be executed.
+
+Clarification of liability regime
+The PSD2 clarifies liability issues between the bank holding the account and the payment initiation service provider. In case of an unauthorised payment transaction initiated through a payment initiation service provider, the account-servicing payment service provider must refund the payment service user. If the payment initiation service provider is liable for the unauthorised payment transaction, it must immediately compensate the account-servicing payment service provider.
+
+Enhanced consumer protection
+The PSD2 enhances consumer protection. In case of an unauthorised transaction, the payment service user must be refunded immediately. The payment service user is not liable if it was not possible for him/her to be aware of a loss that resulted from theft or misappropriation of the payment instrument (e.g. data breaches, hacking attacks, copied payment cards). In other cases of lost or stolen payment instruments (e.g. a lost wallet), the payment service user can be held liable for a maximum of €50, provided he/she fulfilled the obligation to notify the payment service provider and did not act in a grossly negligent or fraudulent manner. Payment users have an eight-week unconditional refund right for direct debits in euro.
+
+No surcharges on payments covered by the Interchange Fee Regulation
+The PSD2 prohibits merchants from charging consumers additional fees for specified payment methods. The surcharge ban applies where the consumer’s bank or card issuer and the payment service provider of the merchant are both located in the European Economic Area (EEA) and the consumer makes a payment either using a debit or credit card, or by direct debit or credit transfer. Even when the surcharge ban does not apply, the amount of any surcharge imposed cannot exceed the cost incurred by the merchant in accepting the particular payment method.
+
+Increased security for payment services
+The PSD2 sets out strict security requirements for electronic payments and the protection of consumers’ financial data. Payment service providers are required to ensure strong customer authentication for the initiation and processing of electronic payments.
+
+Customer authentication is a process whereby the identity of the user of a payment service is validated. Customer authentication is considered to be strong if it is based on the use of two or more of the following elements: (i) knowledge (something only the user knows, e.g. a password or a PIN); (ii) possession (something only the user possesses, e.g. the card or an authentication code generating device) and (iii) inherence (something the user is, e.g. the use of a fingerprint or voice recognition). These elements are independent (the breach of one element does not compromise the reliability of the others) and designed in such a way as to protect the confidentiality of the authentication data.
+

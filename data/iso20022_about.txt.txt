@@ -1,0 +1,26 @@
+About ISO 20022
+ISO 20022 is an open global standard for financial information. It provides consistent, rich and structured data that can be used for every kind of financial business transaction.
+Don’t get left behind, the coexistence period for payment instructions is scheduled to end on 22 November 2025.
+
+ISO 20022 for Financial Institutions: Focus on payments instructions
+ISO 20022 is transforming the payments industry by introducing a common global standard for cross-border transactions. Endorsed by the G20 and CPMI, its adoption is a vital step towards faster, more efficient payments. With the coexistence period ending on 22 November 2025, Swift is committed to supporting the community’s migration to this key milestone. Start preparing for ISO 20022 adoption today to ensure your organisation stays ahead.
+
+
+Richer, better structured and more granular data
+ISO 20022 enables richer, better structured and more granular data end-to-end to be carried in payments messages.
+
+Quality data means quality payments
+More transparency and more remittance information for your customers which in turn means better customer service. And a better customer experience.
+
+Improved analytics, less manual intervention
+Further operational benefits include improved analytics, less manual intervention, more accurate compliance processes, higher resilience and improved fraud prevention measures.
+
+Supporting end-to-end automation
+A single standard that covers all business domains and end-to-end business processes, ISO 20022 facilitates the creation of new services and enhanced straight-through processing.
+
+Using modern technology
+ISO 20022 uses modern, mainstream XML technology which is well supported and which facilitates efficient integration.
+
+Worldwide adoption
+Almost 200 market infrastructure driven initiatives are either already implementing ISO 20022 or are considering adopting the standard for payments and securities transformation projects.
+

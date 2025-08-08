@@ -1,0 +1,29 @@
+WHAT IS OPEN BANKING?
+Open banking is a simple, secure way to help you move, manage and make more of your money.
+Savings or investments. Budgeting or donating. Affordable loans and cost-effective payments. Open banking powers new ways for consumers and businesses to access a wide range of financial services – all built on secure systems from regulated providers.
+Many organisations, including HMRC and utilities firms, offer open banking as a way to pay bills, and you can use it to top up some savings accounts, and donate to charity.
+
+WHY OPEN BANKING IS SAFE
+Open banking is a new way to make your money work harder. It’s secure, it’s quick, it’s convenient – and over 12 million businesses and consumers in the UK already use it.
+Apps and services are produced by firms which are regulated by the Financial Conduct Authority, which oversees UK financial services firms and markets, or a European equivalent.
+
+FAMILIAR SECURE SYSTEMS
+Open banking is built on the secure systems already used by familiar high street banks and new fintech firms.
+You may even be using it already to pay utilities and tax bills, to help manage your money, or to find financial products or services that suit you better.
+With open banking, you’re never asked to share security details. You’ll be asked to authenticate your details using a combination of a password or PIN, fingerprint or facial recognition, and a mobile phone message or card-reader.
+
+It’s linked to your bank
+Open banking is done via secure Application Programming Interfaces (APIs), and you access services in the same way as your online banking and other online services and apps.
+It offers new ways to manage your money, with reliable security and counter-fraud controls.
+If you’re paying by open banking, it’s sometimes referred to as ‘Pay by Bank’, ‘Pay by link’, ‘Bank Pay’, ‘Pay with Bank Transfer’, or ’Instant bank transfer’.
+
+You’re in control
+You choose which apps and websites you want to use – so you’re always in charge. You decide what information that firm can access, and for how long. No one gets access unless you say so. 
+Changed your mind? It’s just as easy to withdraw your consent so open banking apps and services can no longer access your data or make payments on your behalf.
+
+It’s a familiar way to share information
+Open banking APIs are commonly used to share information between services. Logging in to a website via Facebook? That’s done via APIs. Uber pinpointing location on a map? That’s Google Maps’ API at work.
+
+Less data. More security.
+Forget handing over piles of sensitive financial information to apply for accounts. With open banking, you share the minimum data necessary for the product or service you want to use through a secure digital process.
+

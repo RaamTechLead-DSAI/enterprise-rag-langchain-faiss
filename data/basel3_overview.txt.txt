@@ -1,0 +1,55 @@
+The Basel III reforms have now been integrated into the consolidated Basel Framework, which comprises all of the current and forthcoming standards of the Basel Committee on Banking Supervision. For background, set out below are the main publications that describe the changes to the Basel Framework that were agreed as part of Basel III.
+
+Basel III is an internationally agreed set of measures developed by the Basel Committee on Banking Supervision in response to the financial crisis of 2007-09. The measures aim to strengthen the regulation, supervision and risk management of banks.
+
+Like all Basel Committee standards, Basel III standards are minimum requirements which apply to internationally active banks. Members are committed to implementing and applying standards in their jurisdictions within the time frame established by the Committee.
+
+Pillar 1: Capital
+Quality and level of capital
+Raising minimum common equity to 4.5% of risk weighted assets, after deductions.
+A capital conservation buffer comprising common equity of 2.5% of risk-weighted assets brings the total common equity standard to 7%. Constraints on a bank’s discretionary distributions will be imposed when it falls into the buffer range.
+A countercyclical buffer within a range of 0–2.5% comprising common equity will apply when credit growth is judged to result in an unacceptable build-up.
+Capital loss absorption at the point of non-viability Allowing capital instruments to be written off or converted to common shares if the bank is judged to be non-viable. This will reduce moral hazard by increasing the private sector’s contribution to resolving future banking crises
+
+Pillar 1: Risk coverage
+Revisions to the standardised approaches for
+calculating: credit risk, market risk, credit valuation adjustment risk, and operational risk. Mean greater risk-sensitivity and comparability.
+
+Constraints on using internal models aim to reduce unwarranted variability in banks’ calculations of risk-weighted assets.
+
+Counterparty credit risk
+More stringent requirements for measuring exposure; capital incentives to use central counterparties for derivatives; a new standardised approach; and higher capital for inter-financial sector exposures. 
+
+Securitisations
+Reducing reliance on external ratings, simplifying and limiting the number of approaches for calculating capital charges and increasing requirements for riskier exposures.
+
+Capital requirements for exposures to central counterparties (CCPs) and equity investments in funds to ensure adequate capitalisation and support a resilient financial system.
+
+A revised output floor, based on Basel III standardised approaches, limits the regulatory capital benefits that a bank using internal models can derive relative to the standardised approaches.
+
+Pillar 1: Containing leverage
+A non-risk based leverage ratio including off-balance sheet exposures is meant to serve as a backstop to the risk-based capital requirement. It also helps contain systemwide build-up of leverage.
+
+Pillar 2: Risk management and supervision
+Supplemental Pillar 2 requirements address firm-wide governance and risk management, including the risk of off-balance sheet exposures and securitisation activities, sound compensation practices, valuation practices, stress testing, corporate governance and supervisory colleges.
+
+Interest rate risk in the banking book (IRRBB) Extensive guidance on expectations for a bank’s IRRBB management process: enhanced disclosure requirements; stricter threshold for identifying outlier banks; updated standardised approach.
+
+Pillar 3: Market discipline
+Revised Pillar 3 disclosure requirements Consolidated and enhanced framework, covering all the reforms to the Basel framework. Introduces a dashboard of banks’ key prudential metrics.
+
+Liquidity
+Global liquidity standards and supervisory monitoring
+The Liquidity Coverage Ratio (LCR) requires banks to have sufficient high-quality liquid assets to withstand a 30-day stressed funding scenario that is specified by supervisors.
+
+The longer-term, structural Net Stable Funding Ratio NSFR) is designed to address liquidity mismatches. It covers the entire balance sheet and provides incentives for banks to use stable sources of funding.
+
+The Committee’s 2008 guidance Principles for Sound Liquidity Risk Management and Supervision takes account of lessons learned during the crisis. It is based on a fundamental review of sound practices for managing liquidity risk in banking organisations.
+
+Supervisory monitoring The liquidity framework includes a common set of intraday and longerterm monitoring metrics to assist supervisors in identifying and analysing liquidity risk trends at both the bank and system-wide level.
+
+Large exposures:
+Large exposures regime established to mitigate systemic risks arising from interlinkages across financial institutions and concentrated exposures.
+
+
+
