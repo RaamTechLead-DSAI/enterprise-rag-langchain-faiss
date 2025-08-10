@@ -23,7 +23,7 @@ This repository contains a working **Retrieval-Augmented Generation (RAG)** prot
 
 ##  Quickstart (Colab)
 
-1. Open `rag_build_index_query.ipynb` in Colab.  
+1. Open `enterprise-rag-langchain-faiss.ipynb` in Colab.  
 2. Follow along with the notebook’s **Text** and **Code** cells that walk through:
    1. **Set up Colab** → install libs, mount Drive  
    2. **Configure API key** → securely load your OpenAI key  
